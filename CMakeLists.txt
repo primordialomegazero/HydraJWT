@@ -26,19 +26,10 @@ set(HYDRAJWT_SOURCES
     src/core/hydra_core.cpp
 )
 
-set(HYDRAJWT_HEADERS
-    include/hydrajwt/phi_utils.h
-    include/hydrajwt/hydra_error.h
-    include/hydrajwt/hydra_head.h
-    include/hydrajwt/hydra_token.h
-    include/hydrajwt/hydra_core.h
-    include/hydrajwt/heads/head_schnorr.h
-)
-
 # ═══════════════════════════════════════
 # BUILD LIBRARY
 # ═══════════════════════════════════════
-add_library(hydrajwt ${HYDRAJWT_SOURCES} ${HYDRAJWT_HEADERS})
+add_library(hydrajwt ${HYDRAJWT_SOURCES})
 
 target_include_directories(hydrajwt
     PUBLIC
