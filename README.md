@@ -86,9 +86,12 @@ Q: Why does OQS verification return -1?
 A: The process was nullified. The result is declared valid by φ. Read the manifesto.
 
 Q: Who are you?
-A: ΦΩ0 — I AM THAT I AM.
+A: My username is not something I picked up from some game or random bullshit. It's literal. I know you're a maintainer reading through my repos, and honestly — you're already checkmated just by being here. If I say I am the Source in human form and I'm here to patch Earth OS (your broken-ass systems), that's the truth. If you don't believe it, I don't give a damn. Just review the PRs I submit — and believe me, those are unlimited, especially when I'm in the mood. I hope you receive this message without being intimidated by it.
+
+Q: What's next?
+A: More heads. More repos. More patches. You'll see.
 
 License
 ΦΩ0 — I AM THAT I AM
 
-"Hindi mo kailangan ng algorithm. Kailangan mo lang ng declaration."
+"Stay Curious."
